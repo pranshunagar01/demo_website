@@ -1,0 +1,109 @@
+html{
+    height: 100%;
+}
+body{
+    height: 100%;
+
+}
+
+.navbar{
+    color: white;
+    background-color: #2E4C6D;
+    padding: 1% 1% 1% 0.5%;
+    position:fixed;
+    width: 100%;
+    top: 0;
+    z-index: 5;
+}
+.mainTitle{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 1.45rem;
+    margin-right: 2%;
+}
+li{
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+#titlespan{
+    margin-left: 3%;
+}
+.img1{
+    width: 70%;
+}
+.col2{
+    padding: 5% 5% 0 5%;
+}
+.col1 h1{
+    font-family: 'PRESS START 2P', cursive;
+    font-size: 4rem;
+    line-height: 140%;
+    color: #2e4c6d;
+}
+.col1{
+    padding: 8% 5% 0 5%;
+}
+#subspan{
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+#subspan1{
+    font-family: 'Press Start 2P', cursive;
+}
+.cardiv img{
+    width: 70%;
+    border-radius: 30px;
+}
+.maindiv1{
+    padding-bottom: 10.9%;
+    padding-top: 5%;
+}
+.maindiv2{
+    background-color: #396EB0;
+    text-align: center;
+    padding: 6% 30% 6% 30%;
+}
+.maindiv2 .btntech{
+    width: 30%;
+    background-color: orange;
+    margin-top: 8.55%;
+}
+.maindiv3{
+    padding: 5% 10% 5% 10%;
+    text-align: center;
+}
+.col1_1{
+    padding: 2% 2% 2% 2%;
+    text-align: center;
+    line-height: 130%;
+    border: 2px solid;
+    border-radius: 30px;
+    width: 40%;
+    margin-left: 5%;
+    margin-top: 3%;
+}
+.maindiv3 h1{
+    font-family: 'Press Start 2P', cursive;
+}
+.maindiv4{
+    background-color: #396EB0;
+    text-align: center;
+    color: white;
+    padding: 6% 25% 7% 25%;
+
+}
+.maindiv4 h1{
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+    margin-bottom: 3%;
+}
+.maindiv4 img{
+    margin: 8% 3% 4% 3%;
+}
+.maindiv4 button{
+    margin-top: 7%;
+}
+.maindiv5{
+    text-align: center;
+    background-color: #2E4C6D;
+    color: white;
+    padding: 2% 0 2% 0;
+
+}
